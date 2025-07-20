@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="GBRQhlcr2qT7ggxqFh4x">
-    <mxGraphModel dx="1213" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="837" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -305,9 +305,6 @@
         </mxCell>
         <mxCell id="FvC9lENV0Nc4bnneDoNH-93" value="a&lt;sub style=&quot;font-size: 4px;&quot;&gt;13&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=4;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="FvC9lENV0Nc4bnneDoNH-78">
           <mxGeometry x="17.5" y="41.400000000000006" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FvC9lENV0Nc4bnneDoNH-95" value="特征计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=10;fontColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="820" y="250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
