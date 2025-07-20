@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="owMPEvJdce4a_SNawflI-61" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillStyle=auto;fillColor=#E6FFCC;" parent="1" vertex="1">
+        <mxCell id="owMPEvJdce4a_SNawflI-61" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillStyle=auto;fillColor=#E6FFCC;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="240" y="340" width="680" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="owMPEvJdce4a_SNawflI-60" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillStyle=auto;fillColor=none;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="owMPEvJdce4a_SNawflI-60" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillStyle=auto;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="240" y="250" width="680" height="90" as="geometry" />
         </mxCell>
         <mxCell id="owMPEvJdce4a_SNawflI-59" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillStyle=auto;fillColor=#FFFFCC;" parent="1" vertex="1">
@@ -389,7 +389,7 @@
         <mxCell id="owMPEvJdce4a_SNawflI-64" value="执行层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="250" y="255" width="20" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="owMPEvJdce4a_SNawflI-22" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
+        <mxCell id="owMPEvJdce4a_SNawflI-22" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#4D4D4D;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="300" y="360" width="580" height="100" as="geometry" />
         </mxCell>
         <mxCell id="owMPEvJdce4a_SNawflI-2" value="" style="group" parent="1" vertex="1" connectable="0">
