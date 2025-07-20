@@ -348,7 +348,7 @@
         <mxCell id="owMPEvJdce4a_SNawflI-18" value="角色嵌入向量r&lt;sub&gt;i&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="693" y="453" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owMPEvJdce4a_SNawflI-19" value="角色嵌入向量r&lt;sub&gt;i&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="owMPEvJdce4a_SNawflI-19" value="聚合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
