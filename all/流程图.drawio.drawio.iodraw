@@ -357,10 +357,10 @@
         <mxCell id="owMPEvJdce4a_SNawflI-19" value="角色约束下进行策略学习" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontColor=#4D4D4D;" vertex="1" parent="owMPEvJdce4a_SNawflI-24">
           <mxGeometry x="244.9699999999999" y="66" width="74.45" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="owMPEvJdce4a_SNawflI-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="owMPEvJdce4a_SNawflI-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.629;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="owMPEvJdce4a_SNawflI-24" source="owMPEvJdce4a_SNawflI-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="490" as="sourcePoint" />
-            <mxPoint x="270" y="440" as="targetPoint" />
+            <mxPoint x="140" y="116" as="sourcePoint" />
+            <mxPoint x="140" y="66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
