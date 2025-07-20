@@ -367,7 +367,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="owMPEvJdce4a_SNawflI-34" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="472.2" y="280" width="220" height="40" as="geometry" />
+          <mxGeometry x="472.2" y="280" width="457.8" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="owMPEvJdce4a_SNawflI-60" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillStyle=auto;fillColor=#FFE6CC;" vertex="1" parent="owMPEvJdce4a_SNawflI-34">
+          <mxGeometry x="-202.2" y="-30" width="660" height="135" as="geometry" />
         </mxCell>
         <mxCell id="owMPEvJdce4a_SNawflI-27" value="agent 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontSize=10;fontColor=#4D4D4D;" vertex="1" parent="owMPEvJdce4a_SNawflI-34">
           <mxGeometry x="8.22429906542056" y="10" width="51.4018691588785" height="20" as="geometry" />
@@ -421,9 +424,6 @@
         </mxCell>
         <mxCell id="owMPEvJdce4a_SNawflI-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.52;entryY=1.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="m_4GUBGcEr_32hSACTtb-1" target="owMPEvJdce4a_SNawflI-3">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="owMPEvJdce4a_SNawflI-60" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillStyle=auto;fillColor=#FFE6CC;" vertex="1" parent="1">
-          <mxGeometry x="270" y="400" width="660" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
