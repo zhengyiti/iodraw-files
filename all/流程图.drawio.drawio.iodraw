@@ -324,8 +324,8 @@
             <mxPoint x="186" y="59" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="owMPEvJdce4a_SNawflI-10" value="特征计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="440" width="60" height="30" as="geometry" />
+        <mxCell id="owMPEvJdce4a_SNawflI-10" value="特征计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
