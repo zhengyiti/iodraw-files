@@ -150,7 +150,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FvC9lENV0Nc4bnneDoNH-48" value="环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="720" width="75" height="40" as="geometry" />
+          <mxGeometry x="190" y="510" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FvC9lENV0Nc4bnneDoNH-94" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="770" y="310" width="220" height="150" as="geometry" />
