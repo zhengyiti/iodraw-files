@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="zVp96ZWLLh9iAQEHHFjY">
-    <mxGraphModel dx="485" dy="264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="693" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -349,7 +349,7 @@
           <mxGeometry x="740" y="383" width="14.25" height="73" as="geometry" />
         </mxCell>
         <mxCell id="owMPEvJdce4a_SNawflI-19" value="角色约束下进行策略学习" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="555" y="439" width="65" height="7" as="geometry" />
+          <mxGeometry x="537.5" y="449" width="65" height="7" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
