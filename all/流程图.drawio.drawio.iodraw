@@ -364,7 +364,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="owMPEvJdce4a_SNawflI-26" value="执行策略a&lt;sub&gt;i&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="280" width="65" height="30" as="geometry" />
+          <mxGeometry x="547.5" y="290" width="65" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
