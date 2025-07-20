@@ -384,7 +384,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="owMPEvJdce4a_SNawflI-63" value="感知层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="150" y="440" width="20" height="50" as="geometry" />
+          <mxGeometry x="250" y="530" width="20" height="50" as="geometry" />
         </mxCell>
         <mxCell id="owMPEvJdce4a_SNawflI-64" value="执行层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="250" y="255" width="20" height="80" as="geometry" />
