@@ -153,7 +153,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="owMPEvJdce4a_SNawflI-11" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="302.5" y="480" width="220" height="150" as="geometry" />
+          <mxGeometry x="300" y="480" width="220" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Zw_ui97DVYe3AF2P5j3O-104" value="" style="group" parent="owMPEvJdce4a_SNawflI-11" vertex="1" connectable="0">
           <mxGeometry x="10" y="8.75" width="90" height="126.5" as="geometry" />
@@ -319,7 +319,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="owMPEvJdce4a_SNawflI-22" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#4D4D4D;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="346.5" width="597.5" height="113.5" as="geometry" />
+          <mxGeometry x="300" y="346.5" width="580" height="113.5" as="geometry" />
         </mxCell>
         <mxCell id="owMPEvJdce4a_SNawflI-2" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="697" y="360" width="24.599999999999998" height="70" as="geometry" />
