@@ -150,7 +150,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FvC9lENV0Nc4bnneDoNH-48" value="环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="210" width="75" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
