@@ -334,7 +334,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="owMPEvJdce4a_SNawflI-14" value="交互特征h&lt;sub&gt;i&lt;/sub&gt;&lt;sup&gt;&#39;&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="464" y="378" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="400" width="86" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
