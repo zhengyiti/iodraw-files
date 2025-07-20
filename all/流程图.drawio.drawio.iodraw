@@ -363,13 +363,13 @@
             <mxPoint x="140" y="66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="owMPEvJdce4a_SNawflI-27" value="agent 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owMPEvJdce4a_SNawflI-27" value="agent 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="340" y="280" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="owMPEvJdce4a_SNawflI-28" value="agent 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owMPEvJdce4a_SNawflI-28" value="agent 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="410" y="280" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="owMPEvJdce4a_SNawflI-29" value="agent n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="owMPEvJdce4a_SNawflI-29" value="agent n" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="490" y="280" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
