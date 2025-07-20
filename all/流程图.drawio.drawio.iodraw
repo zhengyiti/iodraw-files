@@ -319,7 +319,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="owMPEvJdce4a_SNawflI-20" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="382.88" y="383" width="394.25" height="73" as="geometry" />
+          <mxGeometry x="382.88" y="383" width="490" height="90" as="geometry" />
         </mxCell>
         <mxCell id="owMPEvJdce4a_SNawflI-2" value="" style="group" vertex="1" connectable="0" parent="owMPEvJdce4a_SNawflI-20">
           <mxGeometry x="350" width="30" height="70" as="geometry" />
@@ -354,8 +354,8 @@
         <mxCell id="owMPEvJdce4a_SNawflI-19" value="角色约束下进行策略学习" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontColor=#4D4D4D;" vertex="1" parent="owMPEvJdce4a_SNawflI-20">
           <mxGeometry x="177.5" y="66" width="65" height="7" as="geometry" />
         </mxCell>
-        <mxCell id="owMPEvJdce4a_SNawflI-22" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#4D4D4D;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="288" y="310" width="412" height="30" as="geometry" />
+        <mxCell id="owMPEvJdce4a_SNawflI-22" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#4D4D4D;fillColor=none;" vertex="1" parent="owMPEvJdce4a_SNawflI-20">
+          <mxGeometry x="-82.88" y="-14" width="572.88" height="104" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
