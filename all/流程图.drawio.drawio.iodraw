@@ -349,7 +349,7 @@
           <mxGeometry x="740" y="383" width="14.25" height="73" as="geometry" />
         </mxCell>
         <mxCell id="owMPEvJdce4a_SNawflI-19" value="角色约束下进行策略学习" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="555" y="439" width="30" height="7" as="geometry" />
+          <mxGeometry x="555" y="439" width="65" height="7" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
