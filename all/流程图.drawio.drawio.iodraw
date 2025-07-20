@@ -354,6 +354,12 @@
         <mxCell id="owMPEvJdce4a_SNawflI-19" value="角色约束下进行策略学习" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontColor=#4D4D4D;" vertex="1" parent="owMPEvJdce4a_SNawflI-20">
           <mxGeometry x="177.5" y="66" width="65" height="7" as="geometry" />
         </mxCell>
+        <mxCell id="owMPEvJdce4a_SNawflI-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="owMPEvJdce4a_SNawflI-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
