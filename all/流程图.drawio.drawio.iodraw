@@ -8,7 +8,7 @@
           <mxGeometry x="317.5" y="660" width="525" height="40" as="geometry" />
         </mxCell>
         <mxCell id="owMPEvJdce4a_SNawflI-2" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="812.5" y="378" width="30" height="70" as="geometry" />
+          <mxGeometry x="710" y="378" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Zw_ui97DVYe3AF2P5j3O-107" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=6;fillColor=#f8cecc;strokeColor=#b85450;" parent="owMPEvJdce4a_SNawflI-2" vertex="1">
           <mxGeometry x="10" y="10" width="10" height="10" as="geometry" />
@@ -334,7 +334,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="owMPEvJdce4a_SNawflI-14" value="交互特征h&lt;sub&gt;i&lt;/sub&gt;&lt;sup&gt;&#39;&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="400" width="86" height="42" as="geometry" />
+          <mxGeometry x="390" y="392" width="86" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
