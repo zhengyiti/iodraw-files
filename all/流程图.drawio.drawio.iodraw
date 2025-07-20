@@ -346,10 +346,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="owMPEvJdce4a_SNawflI-18" value="角色嵌入向量 r&lt;sub style=&quot;font-size: 9px;&quot;&gt;i&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="740" y="380" width="14.25" height="73" as="geometry" />
+          <mxGeometry x="740" y="383" width="14.25" height="73" as="geometry" />
         </mxCell>
         <mxCell id="owMPEvJdce4a_SNawflI-19" value="融合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="550" y="439" width="30" height="7" as="geometry" />
+          <mxGeometry x="555" y="439" width="30" height="7" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
