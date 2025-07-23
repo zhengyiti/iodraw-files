@@ -309,8 +309,18 @@
         <mxCell id="-TOXXivFxnEZiNkbMHY8-1" value="动态图注意力网络&lt;div&gt;DGAT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-TOXXivFxnEZiNkbMHY8-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-TOXXivFxnEZiNkbMHY8-2" value="MAPPO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="509" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-TOXXivFxnEZiNkbMHY8-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="960" as="sourcePoint" />
+            <mxPoint x="480" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="960" />
+              <mxPoint x="430" y="910" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
