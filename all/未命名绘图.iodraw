@@ -361,8 +361,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="850" y="1110" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="820" y="980" />
+              <mxPoint x="812" y="980" />
               <mxPoint x="812" y="990" />
-              <mxPoint x="600" y="990" />
+              <mxPoint x="610" y="990" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -372,7 +374,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-TOXXivFxnEZiNkbMHY8-9" value="角色条件策略" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="760" y="850" width="124" height="60" as="geometry" />
+          <mxGeometry x="760" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
