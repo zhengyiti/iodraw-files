@@ -322,7 +322,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-TOXXivFxnEZiNkbMHY8-7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-TOXXivFxnEZiNkbMHY8-4">
+        <mxCell id="-TOXXivFxnEZiNkbMHY8-7" value="注意力权重" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-TOXXivFxnEZiNkbMHY8-4">
           <mxGeometry x="-0.0497" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
