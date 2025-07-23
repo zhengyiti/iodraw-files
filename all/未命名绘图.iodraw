@@ -307,7 +307,7 @@
           <mxGeometry x="17.5" y="41.400000000000006" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-TOXXivFxnEZiNkbMHY8-1" value="动态图注意力网络&lt;div&gt;DGAT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
