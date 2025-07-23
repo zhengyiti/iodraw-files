@@ -317,7 +317,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-TOXXivFxnEZiNkbMHY8-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-TOXXivFxnEZiNkbMHY8-10">
+        <mxCell id="-TOXXivFxnEZiNkbMHY8-12" value="角色优势" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-TOXXivFxnEZiNkbMHY8-10">
           <mxGeometry x="-0.062" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -362,6 +362,11 @@
               <mxPoint x="812" y="990" />
               <mxPoint x="569" y="990" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-TOXXivFxnEZiNkbMHY8-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-TOXXivFxnEZiNkbMHY8-11">
+          <mxGeometry x="-0.0471" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-TOXXivFxnEZiNkbMHY8-9" value="角色条件策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
