@@ -377,6 +377,9 @@
         <mxCell id="2VTHglEEdJa6FBvB_ew7-1" value="Scaled Dot Product" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="377" y="1508" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2VTHglEEdJa6FBvB_ew7-2" value="Softmax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387" y="1518" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
