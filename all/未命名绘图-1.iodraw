@@ -429,17 +429,17 @@
         <mxCell id="2VTHglEEdJa6FBvB_ew7-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="2687" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2VTHglEEdJa6FBvB_ew7-22" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="329" y="2685" width="40" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="2VTHglEEdJa6FBvB_ew7-23" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="329" y="2685" width="40" height="60" as="geometry" />
+          <mxGeometry x="329" y="2685" width="21" height="27" as="geometry" />
         </mxCell>
         <mxCell id="2VTHglEEdJa6FBvB_ew7-24" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="329" y="2685" width="40" height="60" as="geometry" />
+          <mxGeometry x="329" y="2685" width="17" height="19" as="geometry" />
         </mxCell>
         <mxCell id="2VTHglEEdJa6FBvB_ew7-25" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="2696" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2VTHglEEdJa6FBvB_ew7-26" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="479" y="2714" width="40" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
