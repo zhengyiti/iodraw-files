@@ -506,7 +506,7 @@
         <mxCell id="2VTHglEEdJa6FBvB_ew7-54" value="Softmax" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="359.5" y="3462" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="2VTHglEEdJa6FBvB_ew7-55" value="子任务选择分布" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="2VTHglEEdJa6FBvB_ew7-55" value="子任务选择分布" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=10;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="3430" width="56" height="32" as="geometry" />
         </mxCell>
         <mxCell id="2VTHglEEdJa6FBvB_ew7-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=12;fillColor=#d0cee2;strokeColor=#56517e;" edge="1" parent="1" source="2VTHglEEdJa6FBvB_ew7-56" target="2VTHglEEdJa6FBvB_ew7-58">
@@ -521,7 +521,7 @@
         <mxCell id="2VTHglEEdJa6FBvB_ew7-58" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 12px; text-align: left;&quot;&gt;Gumbel Softmax&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="483" y="3550.59" width="106" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="2VTHglEEdJa6FBvB_ew7-61" value="角色" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;fillColor=none;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="2VTHglEEdJa6FBvB_ew7-61" value="角色" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="507" y="3640" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
