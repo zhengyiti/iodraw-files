@@ -383,6 +383,11 @@
         <mxCell id="2VTHglEEdJa6FBvB_ew7-3" value="Dot Product" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="214.25" y="1409" width="245.75" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="2VTHglEEdJa6FBvB_ew7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2VTHglEEdJa6FBvB_ew7-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="236" y="1700.3333740234375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2VTHglEEdJa6FBvB_ew7-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;W&lt;sub style=&quot;font-size: 20px;&quot;&gt;q&lt;/sub&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="201" y="1749" width="70" height="52" as="geometry" />
         </mxCell>
@@ -393,7 +398,7 @@
           <mxGeometry x="413" y="1749" width="66" height="47" as="geometry" />
         </mxCell>
         <mxCell id="2VTHglEEdJa6FBvB_ew7-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="256" y="1595" width="120" height="60" as="geometry" />
+          <mxGeometry x="143" y="1284" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
