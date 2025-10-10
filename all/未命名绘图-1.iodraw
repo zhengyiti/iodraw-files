@@ -524,7 +524,7 @@
         <mxCell id="2VTHglEEdJa6FBvB_ew7-61" value="确定角色" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="507" y="3640" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2VTHglEEdJa6FBvB_ew7-63" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.006;entryY=0.947;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2VTHglEEdJa6FBvB_ew7-48" target="2VTHglEEdJa6FBvB_ew7-44">
+        <mxCell id="2VTHglEEdJa6FBvB_ew7-63" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.018;entryY=0.897;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2VTHglEEdJa6FBvB_ew7-48" target="2VTHglEEdJa6FBvB_ew7-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="175" y="3594" as="sourcePoint" />
             <mxPoint x="225" y="3544" as="targetPoint" />
