@@ -462,7 +462,7 @@
         <mxCell id="2VTHglEEdJa6FBvB_ew7-42" value="编码器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="2913" width="148" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="2VTHglEEdJa6FBvB_ew7-43" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2VTHglEEdJa6FBvB_ew7-43" value="余弦相似度" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="67" y="2836" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
