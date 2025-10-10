@@ -423,7 +423,7 @@
         <mxCell id="2VTHglEEdJa6FBvB_ew7-19" value="智能体轨迹编码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="423" y="1942" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2VTHglEEdJa6FBvB_ew7-20" value="注意力机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2VTHglEEdJa6FBvB_ew7-20" value="注意力机制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="218" y="2164" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
