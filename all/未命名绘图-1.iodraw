@@ -415,6 +415,9 @@
         <mxCell id="2VTHglEEdJa6FBvB_ew7-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.198;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2VTHglEEdJa6FBvB_ew7-4" target="2VTHglEEdJa6FBvB_ew7-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2VTHglEEdJa6FBvB_ew7-19" value="智能体轨迹编码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="286" y="1610" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
