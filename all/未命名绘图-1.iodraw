@@ -416,7 +416,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2VTHglEEdJa6FBvB_ew7-19" value="智能体轨迹编码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="286" y="1610" width="60" height="30" as="geometry" />
+          <mxGeometry x="423" y="1942" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
