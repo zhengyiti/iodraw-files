@@ -453,7 +453,7 @@
         <mxCell id="2VTHglEEdJa6FBvB_ew7-39" value="Contrast Loss" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="248" y="2642" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2VTHglEEdJa6FBvB_ew7-40" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2VTHglEEdJa6FBvB_ew7-40" value="正样本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="165" y="2653" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
