@@ -484,7 +484,7 @@
           <mxGeometry x="357" y="3586.9" width="23.48" height="24.69" as="geometry" />
         </mxCell>
         <mxCell id="2VTHglEEdJa6FBvB_ew7-50" value="余弦相似度" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="325" y="3507" width="71" height="23" as="geometry" />
+          <mxGeometry x="364" y="3526" width="71" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
