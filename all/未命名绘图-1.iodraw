@@ -381,7 +381,7 @@
           <mxGeometry x="214.25" y="1512.5" width="142.5" height="55.5" as="geometry" />
         </mxCell>
         <mxCell id="2VTHglEEdJa6FBvB_ew7-3" value="Dot Product" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="256" y="1378" width="203" height="88" as="geometry" />
+          <mxGeometry x="214.25" y="1409" width="200" height="55" as="geometry" />
         </mxCell>
         <mxCell id="2VTHglEEdJa6FBvB_ew7-4" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;W&lt;sub&gt;q&lt;/sub&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="201" y="1749" width="70" height="52" as="geometry" />
