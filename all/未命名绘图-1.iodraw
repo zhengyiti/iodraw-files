@@ -541,7 +541,7 @@
             <mxPoint x="363" y="3573" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZkX6PcpX4Wb2DTf-VfFm-2" value="Trajected" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZkX6PcpX4Wb2DTf-VfFm-2" value="Trajectory Encoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340.65999999999997" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
