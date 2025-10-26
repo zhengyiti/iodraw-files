@@ -556,9 +556,6 @@
         <mxCell id="UH3iXTRU9iaLX9_8Wm8H-14" value="Contrastive&lt;div style=&quot;font-size: 13px;&quot;&gt;Representation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="26" y="380" width="128" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UH3iXTRU9iaLX9_8Wm8H-15" value="Role Representations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="61" y="647" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="UH3iXTRU9iaLX9_8Wm8H-23" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="82.5" y="571" width="154" height="51" as="geometry" />
         </mxCell>
@@ -573,6 +570,9 @@
         </mxCell>
         <mxCell id="UH3iXTRU9iaLX9_8Wm8H-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;strokeWidth=2;" vertex="1" parent="UH3iXTRU9iaLX9_8Wm8H-23">
           <mxGeometry width="154" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="UH3iXTRU9iaLX9_8Wm8H-15" value="Role Representations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="61" y="647" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UH3iXTRU9iaLX9_8Wm8H-24" value="Perception Module" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="79" y="-74" width="126" height="65" as="geometry" />
