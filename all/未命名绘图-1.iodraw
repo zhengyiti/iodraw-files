@@ -604,7 +604,7 @@
         <mxCell id="UH3iXTRU9iaLX9_8Wm8H-19" value="Z&lt;sub&gt;p&lt;/sub&gt;&lt;sup&gt;1&lt;/sup&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="496" width="64" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="UH3iXTRU9iaLX9_8Wm8H-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UH3iXTRU9iaLX9_8Wm8H-20" value="Z&lt;sub&gt;p&lt;/sub&gt;&lt;sup&gt;n&lt;/sup&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="81" y="597" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
