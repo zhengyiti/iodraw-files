@@ -598,7 +598,7 @@
         <mxCell id="UH3iXTRU9iaLX9_8Wm8H-14" value="Contrastive&lt;div style=&quot;font-size: 13px;&quot;&gt;Representation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="61" y="408" width="128" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UH3iXTRU9iaLX9_8Wm8H-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UH3iXTRU9iaLX9_8Wm8H-15" value="Role Representations" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="761" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
