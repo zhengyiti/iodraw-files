@@ -195,8 +195,8 @@
         <mxCell id="xzDHQH5mloeNkTankSvb-5" value="记忆库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="270" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xzDHQH5mloeNkTankSvb-6" value="z&lt;sub&gt;i&lt;/sub&gt;&lt;sup&gt;t&lt;/sup&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="370" y="488" width="60" height="30" as="geometry" />
+        <mxCell id="xzDHQH5mloeNkTankSvb-6" value="z&lt;sub style=&quot;font-size: 14px;&quot;&gt;i&lt;/sub&gt;&lt;sup style=&quot;font-size: 14px;&quot;&gt;t&lt;/sup&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="355" y="488" width="35" height="22" as="geometry" />
         </mxCell>
         <mxCell id="xzDHQH5mloeNkTankSvb-7" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;h&lt;sub&gt;i&lt;/sub&gt;&lt;sup&gt;t&lt;/sup&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="608" width="60" height="30" as="geometry" />
