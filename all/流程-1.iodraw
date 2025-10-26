@@ -286,7 +286,10 @@
           <mxGeometry x="1000" y="140" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BT8TUhauAeXISHFChagf-1" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;MLP&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="683" width="80" height="40" as="geometry" />
+          <mxGeometry x="420" y="650" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BT8TUhauAeXISHFChagf-2" value="o&lt;sub&gt;i&lt;/sub&gt;&lt;sup&gt;t&lt;/sup&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="807" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
