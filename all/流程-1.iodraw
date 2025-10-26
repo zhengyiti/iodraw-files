@@ -314,7 +314,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BT8TUhauAeXISHFChagf-4" value="GAT" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="BT8TUhauAeXISHFChagf-4" value="GAT" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#B85450;" vertex="1" parent="1">
           <mxGeometry x="440" y="483" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BT8TUhauAeXISHFChagf-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BT8TUhauAeXISHFChagf-12" target="BT8TUhauAeXISHFChagf-3">
