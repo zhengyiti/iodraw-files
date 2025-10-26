@@ -292,10 +292,10 @@
           <mxGeometry x="430" y="730" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BT8TUhauAeXISHFChagf-3" value="GRU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="543" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="483" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BT8TUhauAeXISHFChagf-4" value="GAT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="563" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="560" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
