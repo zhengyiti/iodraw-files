@@ -544,17 +544,8 @@
             <mxPoint x="363" y="3573" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZkX6PcpX4Wb2DTf-VfFm-2" value="Trajectory Encoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="ZkX6PcpX4Wb2DTf-VfFm-2" value="Trajectory Encoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="101.99999999999994" y="510" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZkX6PcpX4Wb2DTf-VfFm-13" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="228.00000000000003" y="510" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZkX6PcpX4Wb2DTf-VfFm-15" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="136.50000000000003" y="413" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZkX6PcpX4Wb2DTf-VfFm-16" value="" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="179.5" y="428" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZkX6PcpX4Wb2DTf-VfFm-20" value="h&lt;sub style=&quot;font-size: 14px;&quot;&gt;i&lt;/sub&gt;&lt;sup style=&quot;font-size: 14px;&quot;&gt;1&lt;/sup&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="271" y="525" width="60" height="30" as="geometry" />
