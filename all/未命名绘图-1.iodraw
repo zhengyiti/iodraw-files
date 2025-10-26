@@ -545,7 +545,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZkX6PcpX4Wb2DTf-VfFm-2" value="Trajectory Encoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="101.99999999999994" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="126.99999999999994" y="453" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZkX6PcpX4Wb2DTf-VfFm-20" value="h&lt;sub style=&quot;font-size: 14px;&quot;&gt;i&lt;/sub&gt;&lt;sup style=&quot;font-size: 14px;&quot;&gt;1&lt;/sup&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="271" y="525" width="60" height="30" as="geometry" />
@@ -596,7 +596,7 @@
           <mxGeometry x="14.879999999999995" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UH3iXTRU9iaLX9_8Wm8H-14" value="Contrastive&lt;div style=&quot;font-size: 13px;&quot;&gt;Representation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="61" y="408" width="128" height="60" as="geometry" />
+          <mxGeometry x="26" y="380" width="128" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UH3iXTRU9iaLX9_8Wm8H-15" value="Role Representations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-4" y="669" width="120" height="60" as="geometry" />
