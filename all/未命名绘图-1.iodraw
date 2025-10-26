@@ -616,6 +616,9 @@
         <mxCell id="UH3iXTRU9iaLX9_8Wm8H-24" value="Perception Module" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="79" y="-74" width="126" height="65" as="geometry" />
         </mxCell>
+        <mxCell id="UH3iXTRU9iaLX9_8Wm8H-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="2048" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
