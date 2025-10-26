@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="GBRQhlcr2qT7ggxqFh4x">
-    <mxGraphModel dx="782" dy="1168" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1350" dy="1333" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -428,11 +428,8 @@
         <mxCell id="2VTHglEEdJa6FBvB_ew7-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.198;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2VTHglEEdJa6FBvB_ew7-4" target="2VTHglEEdJa6FBvB_ew7-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2VTHglEEdJa6FBvB_ew7-19" value="智能体轨迹编码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="423" y="1942" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="2VTHglEEdJa6FBvB_ew7-20" value="注意力机制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="218" y="2164" width="120" height="60" as="geometry" />
+          <mxGeometry x="-87" y="1569.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2VTHglEEdJa6FBvB_ew7-34" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="214.25" y="2703" width="120" height="60" as="geometry" />
