@@ -770,7 +770,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-49" value="KL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="491" y="2190" width="60" height="30" as="geometry" />
+          <mxGeometry x="329" y="2510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mc-j4e1dsujM08-GtfAN-50" value="r" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="555" y="2220" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
