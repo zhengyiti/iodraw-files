@@ -625,6 +625,9 @@
         <mxCell id="mc-j4e1dsujM08-GtfAN-1" value="角色表征模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="77" y="2213" width="87" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="mc-j4e1dsujM08-GtfAN-2" value="角色策略模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="208" y="2213" width="87" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
