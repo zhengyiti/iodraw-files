@@ -743,6 +743,14 @@
         <mxCell id="mc-j4e1dsujM08-GtfAN-32" value="动作价值模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="267" y="2534.5" width="87" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="mc-j4e1dsujM08-GtfAN-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mc-j4e1dsujM08-GtfAN-34" target="mc-j4e1dsujM08-GtfAN-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="372" y="2501" />
+              <mxPoint x="400" y="2500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-34" value="动作匹配器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="265.25" y="2475.5" width="87" height="50" as="geometry" />
         </mxCell>
@@ -758,7 +766,7 @@
           <mxGeometry x="473.5" y="2445.5" width="87" height="49" as="geometry" />
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-36" value="" style="group;strokeWidth=2;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="390" y="2470" width="20" height="22" as="geometry" />
+          <mxGeometry x="388" y="2459" width="20" height="22" as="geometry" />
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-37" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="mc-j4e1dsujM08-GtfAN-36">
           <mxGeometry width="20" height="20" as="geometry" />
