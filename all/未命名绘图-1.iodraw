@@ -687,6 +687,12 @@
         <mxCell id="mc-j4e1dsujM08-GtfAN-22" value="KL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="481" y="2180" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mc-j4e1dsujM08-GtfAN-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="2240" as="sourcePoint" />
+            <mxPoint x="590" y="2190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
