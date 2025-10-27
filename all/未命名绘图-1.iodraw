@@ -660,7 +660,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mc-j4e1dsujM08-GtfAN-53" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fillColor=none;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="mc-j4e1dsujM08-GtfAN-53" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fillColor=none;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="280" y="2390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1" source="mc-j4e1dsujM08-GtfAN-30" target="mc-j4e1dsujM08-GtfAN-31">
