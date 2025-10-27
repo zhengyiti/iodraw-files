@@ -769,6 +769,9 @@
         <mxCell id="mc-j4e1dsujM08-GtfAN-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mc-j4e1dsujM08-GtfAN-37" target="mc-j4e1dsujM08-GtfAN-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mc-j4e1dsujM08-GtfAN-49" value="KL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="491" y="2190" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
