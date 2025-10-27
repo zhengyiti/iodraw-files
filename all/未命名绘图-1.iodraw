@@ -742,9 +742,6 @@
             <mxPoint x="370" y="2505.9655172413795" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mc-j4e1dsujM08-GtfAN-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mc-j4e1dsujM08-GtfAN-34" target="mc-j4e1dsujM08-GtfAN-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-34" value="动作匹配器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="394" y="2481" width="87" height="50" as="geometry" />
         </mxCell>
@@ -777,9 +774,6 @@
               <mxPoint x="360" y="2436" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="mc-j4e1dsujM08-GtfAN-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mc-j4e1dsujM08-GtfAN-37" target="mc-j4e1dsujM08-GtfAN-35">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
