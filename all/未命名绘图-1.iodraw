@@ -745,7 +745,7 @@
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mc-j4e1dsujM08-GtfAN-32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint y="2509.9999999999995" as="targetPoint" />
+            <mxPoint x="10" y="2530" as="targetPoint" />
             <Array as="points">
               <mxPoint x="310" y="2590" />
               <mxPoint y="2590" />
