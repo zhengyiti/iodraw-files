@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="GBRQhlcr2qT7ggxqFh4x">
-    <mxGraphModel dx="1613" dy="1061" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2382" dy="1488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -626,7 +626,10 @@
           <mxGeometry x="77" y="2213" width="87" height="49" as="geometry" />
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-2" value="角色策略模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="208" y="2213" width="87" height="49" as="geometry" />
+          <mxGeometry x="229.5" y="2213" width="87" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="mc-j4e1dsujM08-GtfAN-3" value="角色策略模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="387" y="2213" width="87" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
