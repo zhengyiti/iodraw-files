@@ -720,6 +720,9 @@
         <mxCell id="mc-j4e1dsujM08-GtfAN-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-32.5" y="2194.5" width="71" height="260" as="geometry" />
         </mxCell>
+        <mxCell id="mc-j4e1dsujM08-GtfAN-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mc-j4e1dsujM08-GtfAN-30" target="mc-j4e1dsujM08-GtfAN-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-30" value="动作策略模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="79" y="2454.5" width="87" height="50" as="geometry" />
         </mxCell>
@@ -744,6 +747,9 @@
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-34" value="动作匹配器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="394" y="2525.5" width="87" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mc-j4e1dsujM08-GtfAN-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mc-j4e1dsujM08-GtfAN-35" target="mc-j4e1dsujM08-GtfAN-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-35" value="GAE" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="394" y="2455.5" width="87" height="49" as="geometry" />
@@ -774,6 +780,9 @@
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-50" value="r" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="335.69" y="2495.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mc-j4e1dsujM08-GtfAN-53" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="269.5" y="2190" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
