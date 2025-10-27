@@ -727,7 +727,10 @@
           <mxGeometry x="240.5" y="2410" width="87" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-32" value="动作价值模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="354.75" y="2420" width="87" height="50" as="geometry" />
+          <mxGeometry x="241" y="2481" width="87" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mc-j4e1dsujM08-GtfAN-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="2420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
