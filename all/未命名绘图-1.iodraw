@@ -743,6 +743,11 @@
         <mxCell id="mc-j4e1dsujM08-GtfAN-31" value="奖励模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="266" y="2420" width="87" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="mc-j4e1dsujM08-GtfAN-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mc-j4e1dsujM08-GtfAN-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="2509.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-32" value="动作价值模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="267" y="2534.5" width="87" height="50" as="geometry" />
         </mxCell>
