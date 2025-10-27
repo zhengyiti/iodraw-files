@@ -732,7 +732,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-31" value="奖励模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="249" y="2431" width="87" height="50" as="geometry" />
+          <mxGeometry x="266" y="2420" width="87" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-32" value="动作价值模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="172.5" y="2561.5" width="87" height="50" as="geometry" />
@@ -785,7 +785,7 @@
           <mxGeometry x="335.69" y="2495.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-53" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="251.32999999999998" y="2440" width="60" height="30" as="geometry" />
+          <mxGeometry x="290" y="2400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
