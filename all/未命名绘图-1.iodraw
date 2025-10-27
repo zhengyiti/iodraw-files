@@ -649,13 +649,8 @@
         <mxCell id="mc-j4e1dsujM08-GtfAN-6" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="700" y="2222.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mc-j4e1dsujM08-GtfAN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mc-j4e1dsujM08-GtfAN-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="2220" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="520" y="2204" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="mc-j4e1dsujM08-GtfAN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mc-j4e1dsujM08-GtfAN-8" target="mc-j4e1dsujM08-GtfAN-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-8" value="角色转换器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="386.5" y="2180" width="87" height="49" as="geometry" />
@@ -688,6 +683,9 @@
             <mxPoint x="2.7397260273972597" y="14.164383561643834" as="sourcePoint" />
             <mxPoint x="22.739726027397257" y="14.164383561643834" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mc-j4e1dsujM08-GtfAN-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="481" y="2180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
