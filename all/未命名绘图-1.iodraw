@@ -740,15 +740,6 @@
         <mxCell id="mc-j4e1dsujM08-GtfAN-31" value="奖励模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="266" y="2420" width="87" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mc-j4e1dsujM08-GtfAN-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mc-j4e1dsujM08-GtfAN-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="10" y="2530" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="310" y="2590" />
-              <mxPoint y="2590" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-32" value="动作价值模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="267" y="2534.5" width="87" height="50" as="geometry" />
         </mxCell>
@@ -814,7 +805,12 @@
           <mxGeometry x="127" y="2564.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-74" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-38.66" y="2248.5" width="71" height="260" as="geometry" />
+          <mxGeometry x="-32.5" y="2260" width="71" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="mc-j4e1dsujM08-GtfAN-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mc-j4e1dsujM08-GtfAN-74" source="mc-j4e1dsujM08-GtfAN-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="35.49999999999977" y="259.99999999999955" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mc-j4e1dsujM08-GtfAN-74">
           <mxGeometry width="71" height="260" as="geometry" />
