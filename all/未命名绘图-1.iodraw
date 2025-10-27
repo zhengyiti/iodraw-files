@@ -718,7 +718,10 @@
           <mxGeometry x="487" y="2300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-81" y="2210" width="120" height="60" as="geometry" />
+          <mxGeometry x="-32.5" y="2194.5" width="71" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="mc-j4e1dsujM08-GtfAN-30" value="角色表征模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="94" y="2250" width="87" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
