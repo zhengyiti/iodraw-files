@@ -723,20 +723,30 @@
         <mxCell id="mc-j4e1dsujM08-GtfAN-30" value="动作策略模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="79" y="2410" width="87" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="mc-j4e1dsujM08-GtfAN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mc-j4e1dsujM08-GtfAN-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="2505.9655172413795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-31" value="奖励模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="237.83" y="2481" width="87" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-32" value="动作价值模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="237.82999999999998" y="2410" width="87" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="mc-j4e1dsujM08-GtfAN-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mc-j4e1dsujM08-GtfAN-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="2505.9655172413795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-34" value="动作匹配器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="405.5" y="2481" width="87" height="50" as="geometry" />
+          <mxGeometry x="394" y="2481" width="87" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-35" value="GAE" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="499" y="2411" width="87" height="49" as="geometry" />
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-36" value="" style="group;strokeWidth=2;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="350" y="2490" width="20" height="22" as="geometry" />
+          <mxGeometry x="349" y="2495" width="20" height="22" as="geometry" />
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-37" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="mc-j4e1dsujM08-GtfAN-36">
           <mxGeometry width="20" height="20" as="geometry" />
