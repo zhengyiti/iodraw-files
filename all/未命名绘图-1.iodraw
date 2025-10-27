@@ -702,7 +702,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mc-j4e1dsujM08-GtfAN-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mc-j4e1dsujM08-GtfAN-26" value="r" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="545" y="2210" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
