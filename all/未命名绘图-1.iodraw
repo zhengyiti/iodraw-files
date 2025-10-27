@@ -805,7 +805,7 @@
           <mxGeometry x="127" y="2564.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-74" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-45" y="2194.5" width="71" height="260" as="geometry" />
+          <mxGeometry x="-50" y="2240" width="71" height="260" as="geometry" />
         </mxCell>
         <mxCell id="mc-j4e1dsujM08-GtfAN-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mc-j4e1dsujM08-GtfAN-74">
           <mxGeometry width="71" height="260" as="geometry" />
