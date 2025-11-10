@@ -1160,7 +1160,7 @@
             <mxPoint x="643" y="179" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c20-ZGcgTMIuzG3JuaBM-129" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="c20-ZGcgTMIuzG3JuaBM-129" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c20-ZGcgTMIuzG3JuaBM-88" target="c20-ZGcgTMIuzG3JuaBM-111">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="607" y="184" as="sourcePoint" />
             <mxPoint x="653" y="189" as="targetPoint" />
