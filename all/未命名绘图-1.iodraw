@@ -1320,7 +1320,7 @@
           <mxGeometry x="8" y="21" width="8" height="7" as="geometry" />
         </mxCell>
         <mxCell id="c20-ZGcgTMIuzG3JuaBM-229" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="794" y="55.5" width="16" height="28" as="geometry" />
+          <mxGeometry x="803" y="59" width="16" height="28" as="geometry" />
         </mxCell>
         <mxCell id="c20-ZGcgTMIuzG3JuaBM-216" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;container=0;" vertex="1" connectable="0" parent="c20-ZGcgTMIuzG3JuaBM-229">
           <mxGeometry width="8" height="28" as="geometry" />
