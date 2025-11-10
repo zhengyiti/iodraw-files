@@ -1070,7 +1070,7 @@
             <mxPoint x="578.31" y="72" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c20-ZGcgTMIuzG3JuaBM-111" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="c20-ZGcgTMIuzG3JuaBM-111" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="633" y="-49" width="23" height="246" as="geometry" />
         </mxCell>
       </root>
